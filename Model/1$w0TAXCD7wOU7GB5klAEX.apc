@@ -1,0 +1,136 @@
+model = {
+ 	["1$w0TAXCD7wOU7GB5klAEX"] = {
+ 	 	["date"] = {
+ 	 	 	["hour"] = 10;
+ 	 	 	["min"] = 1;
+ 	 	 	["wday"] = 6;
+ 	 	 	["day"] = 23;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 24;
+ 	 	 	["yday"] = 143;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["member_"] = {
+ 	 	};
+ 	 	["nor_pl"] = {
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["type"] = "BoltArray_OnMem";
+ 	 	["pl"] = {
+ 	 	 	["thick"] = 50;
+ 	 	};
+ 	 	["color_"] = {
+ 	 	 	[1] = 0.513;
+ 	 	 	[2] = 0.513;
+ 	 	 	[3] = 0.549;
+ 	 	};
+ 	 	["nor_pl_rev"] = {
+ 	 	};
+ 	 	["classname"] = "BoltArray_OnMem";
+ 	 	["type"] = "BoltArray_OnMem";
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 51;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["pl"] = {
+ 	 	 	["thick"] = 50;
+ 	 	};
+ 	 	["mgrid"] = "1$w0TAXCD7wOU7GB5klAEX";
+ 	 	["classname"] = "BoltArray_OnMem";
+ 	 	["member_"] = {
+ 	 	 	["beta"] = 18.1;
+ 	 	 	["date"] = {
+ 	 	 	 	["hour"] = 8;
+ 	 	 	 	["min"] = 20;
+ 	 	 	 	["wday"] = 5;
+ 	 	 	 	["day"] = 22;
+ 	 	 	 	["month"] = 5;
+ 	 	 	 	["year"] = 2014;
+ 	 	 	 	["sec"] = 51;
+ 	 	 	 	["yday"] = 142;
+ 	 	 	 	["isdst"] = false;
+ 	 	 	};
+ 	 	 	["class"] = "9";
+ 	 	 	["assembly_number"] = "NSb1C-11";
+ 	 	 	["part_number"] = "P165.2-99";
+ 	 	 	["weight"] = "8.22957183662858";
+ 	 	 	["material"] = "STK400";
+ 	 	 	["spt_"] = {
+ 	 	 	 	["y"] = 5510.69;
+ 	 	 	 	[2] = "5510.69";
+ 	 	 	 	["name"] = "Point";
+ 	 	 	 	[3] = "6337.16";
+ 	 	 	 	[1] = "36879.08";
+ 	 	 	 	["z"] = 6337.16;
+ 	 	 	 	["x"] = 36879.08;
+ 	 	 	};
+ 	 	 	["weight_net"] = "8.22957183662858";
+ 	 	 	["section_"] = "PD165.2*11";
+ 	 	 	["type"] = "Member";
+ 	 	 	["user"] = "rei";
+ 	 	 	["edit_status"] = "add";
+ 	 	 	["mgrid"] = "1wC9wYR0vEdx6SBqxFvkKS";
+ 	 	 	["name"] = "Sb1C";
+ 	 	 	["time_str"] = {
+ 	 	 	 	["min"] = 20;
+ 	 	 	 	["year"] = 2014;
+ 	 	 	 	["month"] = 5;
+ 	 	 	 	["sec"] = 49;
+ 	 	 	 	["hour"] = 8;
+ 	 	 	 	["day"] = 22;
+ 	 	 	};
+ 	 	 	["bolts"] = {
+ 	 	 	};
+ 	 	 	["alignment"] = {
+ 	 	 	 	["v"] = 0;
+ 	 	 	 	["h"] = 0;
+ 	 	 	};
+ 	 	 	["tekla_id"] = "1756473";
+ 	 	 	["ept_"] = {
+ 	 	 	 	["y"] = 5284.68;
+ 	 	 	 	[2] = "5284.68";
+ 	 	 	 	["name"] = "Point";
+ 	 	 	 	[3] = "6134.91";
+ 	 	 	 	[1] = "37136.80";
+ 	 	 	 	["z"] = 6134.91;
+ 	 	 	 	["x"] = 37136.8;
+ 	 	 	};
+ 	 	 	["classname"] = "Member";
+ 	 	 	["time"] = 1400718049;
+ 	 	 	["color_"] = {
+ 	 	 	 	[2] = 0;
+ 	 	 	 	["name"] = "Color";
+ 	 	 	 	["r"] = 1;
+ 	 	 	 	[1] = 1;
+ 	 	 	 	["b"] = 0.50196078431373;
+ 	 	 	 	["g"] = 0;
+ 	 	 	 	[3] = 0.50196078431373;
+ 	 	 	};
+ 	 	};
+ 	 	["nor_pl_rev"] = {
+ 	 	};
+ 	 	["nor_pl"] = {
+ 	 	};
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0.513;
+ 	 	 	["name"] = "Color";
+ 	 	 	[3] = 0.549;
+ 	 	 	[1] = 0.513;
+ 	 	 	["r"] = 0.513;
+ 	 	 	["g"] = 0.513;
+ 	 	 	["b"] = 0.549;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	};
+};

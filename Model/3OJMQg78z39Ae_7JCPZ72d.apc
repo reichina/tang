@@ -1,0 +1,88 @@
+model = {
+ 	["3OJMQg78z39Ae_7JCPZ72d"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["deleted"] = true;
+ 	 	["beta"] = 0;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 59;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "5";
+ 	 	["assembly_number"] = "G1-64";
+ 	 	["part_number"] = "P-41";
+ 	 	["weight"] = "120.76911";
+ 	 	["material"] = "SN490B";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "75727.93";
+ 	 	 	[2] = "59322.43";
+ 	 	 	[3] = "0.00";
+ 	 	};
+ 	 	["weight_net"] = "119.6811";
+ 	 	["section_"] = "SH500*200*12*25";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "3OJMQg78z39Ae_7JCPZ72d";
+ 	 	["name"] = "G1";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0.5;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["tekla_id"] = "546963";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "76727.93";
+ 	 	 	[2] = "59322.43";
+ 	 	 	[3] = "0.00";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	[2] = 1;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0;
+ 	 	 	[1] = 0;
+ 	 	 	["b"] = 1;
+ 	 	 	["g"] = 1;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	};
+};

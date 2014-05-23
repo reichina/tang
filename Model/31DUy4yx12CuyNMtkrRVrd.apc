@@ -1,0 +1,88 @@
+model = {
+ 	["31DUy4yx12CuyNMtkrRVrd"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 180;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 51;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "7";
+ 	 	["assembly_number"] = "MP-233";
+ 	 	["part_number"] = "MP100-233";
+ 	 	["weight"] = "15.8319402910305";
+ 	 	["material"] = "STKR400";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "32095.57";
+ 	 	 	[2] = "4259.43";
+ 	 	 	[3] = "6890.84";
+ 	 	};
+ 	 	["weight_net"] = "16.0734797471978";
+ 	 	["section_"] = "Å†100*100*2.3";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "31DUy4yx12CuyNMtkrRVrd";
+ 	 	["name"] = "MP";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = -0.5;
+ 	 	 	["h"] = -0.5;
+ 	 	};
+ 	 	["tekla_id"] = "4806591";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "30482.43";
+ 	 	 	[2] = "2861.58";
+ 	 	 	[3] = "6507.39";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 1;
+ 	 	 	[1] = 1;
+ 	 	 	["b"] = 1;
+ 	 	 	["g"] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	};
+};

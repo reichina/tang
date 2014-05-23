@@ -1,0 +1,88 @@
+model = {
+ 	["16d2Jt$Fb9TgjxKfiFm7Bp"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["deleted"] = true;
+ 	 	["beta"] = 0;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 59;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "99";
+ 	 	["assembly_number"] = "G1-74";
+ 	 	["part_number"] = "SGJ-7W-1";
+ 	 	["weight"] = "8.007";
+ 	 	["material"] = "SN400B";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "81647.93";
+ 	 	 	[2] = "59328.43";
+ 	 	 	[3] = "-350.00";
+ 	 	};
+ 	 	["weight_net"] = "8.007";
+ 	 	["section_"] = "PL12*500";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "16d2Jt$Fb9TgjxKfiFm7Bp";
+ 	 	["name"] = "";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = -0.5;
+ 	 	};
+ 	 	["tekla_id"] = "584678";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "81817.93";
+ 	 	 	[2] = "59328.43";
+ 	 	 	[3] = "-350.00";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	[2] = 0.513;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0.513;
+ 	 	 	[1] = 0.513;
+ 	 	 	["b"] = 0.549;
+ 	 	 	["g"] = 0.513;
+ 	 	 	[3] = 0.549;
+ 	 	};
+ 	};
+};

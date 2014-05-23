@@ -1,0 +1,88 @@
+model = {
+ 	["3jTbow4cP5T8oR3RlwVwIt"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 180;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 51;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "6";
+ 	 	["assembly_number"] = "b15W-4";
+ 	 	["part_number"] = "ZZ-96";
+ 	 	["weight"] = "6.84755471073656";
+ 	 	["material"] = "SS400";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "27770.43";
+ 	 	 	[2] = "41268.26";
+ 	 	 	[3] = "4050.00";
+ 	 	};
+ 	 	["weight_net"] = "6.7525697147281";
+ 	 	["section_"] = "H150*150*7*10";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "3jTbow4cP5T8oR3RlwVwIt";
+ 	 	["name"] = "b15W";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = -0.5;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["tekla_id"] = "596407";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "27666.19";
+ 	 	 	[2] = "41074.52";
+ 	 	 	[3] = "4050.00";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 1;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 1;
+ 	 	 	[1] = 1;
+ 	 	 	["b"] = 0;
+ 	 	 	["g"] = 1;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	};
+};

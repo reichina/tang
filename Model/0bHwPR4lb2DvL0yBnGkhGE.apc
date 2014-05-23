@@ -1,0 +1,88 @@
+model = {
+ 	["0bHwPR4lb2DvL0yBnGkhGE"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 51;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "9";
+ 	 	["assembly_number"] = "VSC-455";
+ 	 	["part_number"] = "P60.5-957";
+ 	 	["weight"] = "8.97490959812944";
+ 	 	["material"] = "STK400";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "6635.53";
+ 	 	 	[2] = "36423.06";
+ 	 	 	[3] = "7180.40";
+ 	 	};
+ 	 	["weight_net"] = "8.97490959812944";
+ 	 	["section_"] = "PD60.5*5.5";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "0bHwPR4lb2DvL0yBnGkhGE";
+ 	 	["name"] = "VSC";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["tekla_id"] = "462180";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "7374.22";
+ 	 	 	[2] = "35580.74";
+ 	 	 	[3] = "9109.41";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 1;
+ 	 	 	[1] = 1;
+ 	 	 	["b"] = 0.50196078431373;
+ 	 	 	["g"] = 0;
+ 	 	 	[3] = 0.50196078431373;
+ 	 	};
+ 	};
+};

@@ -1,0 +1,88 @@
+model = {
+ 	["0tm49ahsv5O9RkqTIaD9SA"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["deleted"] = true;
+ 	 	["beta"] = 0;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 59;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "99";
+ 	 	["assembly_number"] = "G1-8";
+ 	 	["part_number"] = "WEB-1";
+ 	 	["weight"] = "8.74176";
+ 	 	["material"] = "SS400";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "73587.93";
+ 	 	 	[2] = "59316.43";
+ 	 	 	[3] = "-213.50";
+ 	 	};
+ 	 	["weight_net"] = "8.74176";
+ 	 	["section_"] = "PL12*320";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "0tm49ahsv5O9RkqTIaD9SA";
+ 	 	["name"] = "SPLICE";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0.5;
+ 	 	};
+ 	 	["tekla_id"] = "543085";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "73877.93";
+ 	 	 	[2] = "59316.43";
+ 	 	 	[3] = "-213.50";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	[2] = 0.513;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0.513;
+ 	 	 	[1] = 0.513;
+ 	 	 	["b"] = 0.549;
+ 	 	 	["g"] = 0.513;
+ 	 	 	[3] = 0.549;
+ 	 	};
+ 	};
+};

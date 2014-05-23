@@ -1,0 +1,96 @@
+model = {
+ 	["20BF681EjBTxGyuao1vcjd"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = -32.6;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 51;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "2";
+ 	 	["assembly_number"] = "ZZ-23";
+ 	 	["part_number"] = "ZZ-27";
+ 	 	["weight"] = "658.81125";
+ 	 	["material"] = "SN490B";
+ 	 	["spt_"] = {
+ 	 	 	["y"] = 4954;
+ 	 	 	[2] = 4954;
+ 	 	 	["name"] = "Point";
+ 	 	 	[3] = -1500;
+ 	 	 	[1] = 39543.99;
+ 	 	 	["z"] = -1500;
+ 	 	 	["x"] = 39543.99;
+ 	 	};
+ 	 	["weight_net"] = "653.512500002303";
+ 	 	["section_"] = "HY450*200*12*25";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "20BF681EjBTxGyuao1vcjd";
+ 	 	["name"] = "ZZ";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["h"] = 0;
+ 	 	 	["v"] = 0;
+ 	 	};
+ 	 	["tekla_id"] = "328249";
+ 	 	["ept_"] = {
+ 	 	 	["y"] = 4954;
+ 	 	 	[2] = 4954;
+ 	 	 	["name"] = "Point";
+ 	 	 	[3] = 4125;
+ 	 	 	[1] = 39543.99;
+ 	 	 	["z"] = 4125;
+ 	 	 	["x"] = 39543.99;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 1;
+ 	 	 	[1] = 1;
+ 	 	 	["b"] = 0;
+ 	 	 	["g"] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	};
+};

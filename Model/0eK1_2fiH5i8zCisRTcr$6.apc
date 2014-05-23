@@ -1,0 +1,88 @@
+model = {
+ 	["0eK1_2fiH5i8zCisRTcr$6"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 51;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "3";
+ 	 	["assembly_number"] = "ScG-68";
+ 	 	["part_number"] = "SCH294-6";
+ 	 	["weight"] = "204.931477021131";
+ 	 	["material"] = "SM490A";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "10143.11";
+ 	 	 	[2] = "43879.62";
+ 	 	 	[3] = "4797.00";
+ 	 	};
+ 	 	["weight_net"] = "200.749201979361";
+ 	 	["section_"] = "H294*200*8*12";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "0eK1_2fiH5i8zCisRTcr$6";
+ 	 	["name"] = "ScG";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0.5;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["tekla_id"] = "475362";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "6737.45";
+ 	 	 	[2] = "42390.62";
+ 	 	 	[3] = "4797.00";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 1;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0;
+ 	 	 	[1] = 0;
+ 	 	 	["b"] = 0;
+ 	 	 	["g"] = 1;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	};
+};

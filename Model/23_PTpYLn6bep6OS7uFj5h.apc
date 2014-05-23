@@ -1,0 +1,88 @@
+model = {
+ 	["23_PTpYLn6bep6OS7uFj5h"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 90;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 51;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "4";
+ 	 	["assembly_number"] = "2G2-1";
+ 	 	["part_number"] = "GBK-38";
+ 	 	["weight"] = "40.4446336455";
+ 	 	["material"] = "SS400";
+ 	 	["spt_"] = {
+ 	 	 	[1] = 38392.99;
+ 	 	 	[2] = 13689.01;
+ 	 	 	[3] = 4200.01;
+ 	 	};
+ 	 	["weight_net"] = "38.7998996516723";
+ 	 	["section_"] = "H400*200*8*13";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "23_PTpYLn6bep6OS7uFj5h";
+ 	 	["name"] = " ";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = -0.5;
+ 	 	};
+ 	 	["tekla_id"] = "2715638";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 38392.99;
+ 	 	 	[2] = 13689.01;
+ 	 	 	[3] = 4818;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0;
+ 	 	 	[1] = 0;
+ 	 	 	["b"] = 1;
+ 	 	 	["g"] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	};
+};

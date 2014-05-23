@@ -1,0 +1,88 @@
+model = {
+ 	["2vilhqi6z3lP$8xLh2bVdn"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 50;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "5";
+ 	 	["assembly_number"] = "b24-1";
+ 	 	["part_number"] = "B248-1";
+ 	 	["weight"] = "56.7563564244389";
+ 	 	["material"] = "SS400";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "17961.69";
+ 	 	 	[2] = "12069.75";
+ 	 	 	[3] = "4350.00";
+ 	 	};
+ 	 	["weight_net"] = "55.7035225670006";
+ 	 	["section_"] = "H248*124*5*8";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "2vilhqi6z3lP$8xLh2bVdn";
+ 	 	["name"] = "A";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0.5;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["tekla_id"] = "481158";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "19774.79";
+ 	 	 	[2] = "10253.50";
+ 	 	 	[3] = "4350.00";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 1;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0;
+ 	 	 	[1] = 0;
+ 	 	 	["b"] = 1;
+ 	 	 	["g"] = 1;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	};
+};

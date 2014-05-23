@@ -1,0 +1,88 @@
+model = {
+ 	["0MTyXpsi5F0uCmCpc2WPC0"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["deleted"] = true;
+ 	 	["beta"] = 90;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 59;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "99";
+ 	 	["assembly_number"] = "G1-78";
+ 	 	["part_number"] = "PJ-1W-1";
+ 	 	["weight"] = "4.0977";
+ 	 	["material"] = "SM490A";
+ 	 	["spt_"] = {
+ 	 	 	[1] = 74727.93;
+ 	 	 	[2] = 59317.43;
+ 	 	 	[3] = 6568.97;
+ 	 	};
+ 	 	["weight_net"] = "4.0977";
+ 	 	["section_"] = "PL9*200";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "0MTyXpsi5F0uCmCpc2WPC0";
+ 	 	["name"] = "";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0.5;
+ 	 	};
+ 	 	["tekla_id"] = "681718";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 74727.93;
+ 	 	 	[2] = 59317.43;
+ 	 	 	[3] = 6858.97;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	[2] = 0.513;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0.513;
+ 	 	 	[1] = 0.513;
+ 	 	 	["b"] = 0.549;
+ 	 	 	["g"] = 0.513;
+ 	 	 	[3] = 0.549;
+ 	 	};
+ 	};
+};

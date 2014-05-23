@@ -1,0 +1,96 @@
+model = {
+ 	["1lpKjze4j7hQ8oMAfakgsc"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 203.18;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 51;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "6";
+ 	 	["assembly_number"] = "å£–H-2";
+ 	 	["part_number"] = "ZZ-97";
+ 	 	["weight"] = "126.0572625";
+ 	 	["material"] = "SS400";
+ 	 	["spt_"] = {
+ 	 	 	["y"] = 414.04;
+ 	 	 	[2] = 414.04;
+ 	 	 	["name"] = "Point";
+ 	 	 	[3] = 0;
+ 	 	 	[1] = 35406.52;
+ 	 	 	["z"] = 0;
+ 	 	 	["x"] = 35406.52;
+ 	 	};
+ 	 	["weight_net"] = "124.308675000337";
+ 	 	["section_"] = "H150*150*7*10";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "1lpKjze4j7hQ8oMAfakgsc";
+ 	 	["name"] = "‰¼H";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["h"] = 0;
+ 	 	 	["v"] = 0;
+ 	 	};
+ 	 	["tekla_id"] = "597484";
+ 	 	["ept_"] = {
+ 	 	 	["y"] = 414.04;
+ 	 	 	[2] = 414.04;
+ 	 	 	["name"] = "Point";
+ 	 	 	[3] = 4050;
+ 	 	 	[1] = 35406.52;
+ 	 	 	["z"] = 4050;
+ 	 	 	["x"] = 35406.52;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 1;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 1;
+ 	 	 	[1] = 1;
+ 	 	 	["b"] = 0;
+ 	 	 	["g"] = 1;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	};
+};

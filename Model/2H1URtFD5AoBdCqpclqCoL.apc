@@ -1,0 +1,88 @@
+model = {
+ 	["2H1URtFD5AoBdCqpclqCoL"] = {
+ 	 	["spt_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 0;
+ 	 	};
+ 	 	["beta"] = 0;
+ 	 	["section_"] = "H-200*150*6*9";
+ 	 	["alignment"] = {
+ 	 	 	["v"] = 0;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["type"] = "Member";
+ 	 	["ept_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 5000;
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["color_"] = {
+ 	 	 	[1] = 0;
+ 	 	 	[2] = 0;
+ 	 	 	[3] = 1;
+ 	 	};
+ 	 	["beta"] = 180;
+ 	 	["date"] = {
+ 	 	 	["hour"] = 8;
+ 	 	 	["min"] = 20;
+ 	 	 	["wday"] = 5;
+ 	 	 	["day"] = 22;
+ 	 	 	["month"] = 5;
+ 	 	 	["year"] = 2014;
+ 	 	 	["sec"] = 51;
+ 	 	 	["yday"] = 142;
+ 	 	 	["isdst"] = false;
+ 	 	};
+ 	 	["class"] = "54";
+ 	 	["assembly_number"] = "SG1-29";
+ 	 	["part_number"] = "SG350-15";
+ 	 	["weight"] = "67.4703793420102";
+ 	 	["material"] = "SM490A";
+ 	 	["spt_"] = {
+ 	 	 	[1] = "36790.18";
+ 	 	 	[2] = "32421.49";
+ 	 	 	[3] = "4850.00";
+ 	 	};
+ 	 	["weight_net"] = "66.8973324899236";
+ 	 	["section_"] = "H350*350*12*19";
+ 	 	["type"] = "Member";
+ 	 	["user"] = "rei";
+ 	 	["edit_status"] = "add";
+ 	 	["mgrid"] = "2H1URtFD5AoBdCqpclqCoL";
+ 	 	["name"] = "SG1";
+ 	 	["time_str"] = {
+ 	 	 	["min"] = 20;
+ 	 	 	["year"] = 2014;
+ 	 	 	["month"] = 5;
+ 	 	 	["sec"] = 49;
+ 	 	 	["hour"] = 8;
+ 	 	 	["day"] = 22;
+ 	 	};
+ 	 	["bolts"] = {
+ 	 	};
+ 	 	["alignment"] = {
+ 	 	 	["v"] = -0.5;
+ 	 	 	["h"] = 0;
+ 	 	};
+ 	 	["tekla_id"] = "453618";
+ 	 	["ept_"] = {
+ 	 	 	[1] = "36503.84";
+ 	 	 	[2] = "32831.38";
+ 	 	 	[3] = "4850.00";
+ 	 	};
+ 	 	["classname"] = "Member";
+ 	 	["time"] = 1400718049;
+ 	 	["color_"] = {
+ 	 	 	["name"] = "Color";
+ 	 	 	[2] = 0.75;
+ 	 	 	["name"] = "Color";
+ 	 	 	["r"] = 0.75;
+ 	 	 	[1] = 0.75;
+ 	 	 	["b"] = 0.75;
+ 	 	 	["g"] = 0.75;
+ 	 	 	[3] = 0.75;
+ 	 	};
+ 	};
+};
